@@ -58,6 +58,18 @@ The most important thing is to be clear, specific, insightful, and helpful to ou
 - The code for the Angular app(s) should run
 - Proper spelling and grammar
 
+### Collaboration
+
+Often our posts will involve collaboration back and forth to get everything right.
+
+We suggest that you:
+
+- Do a bit of research on what common problems people have (e.g. protecting routes in this case)
+- Draft an outline about what you'll cover, and **send it to us** (via Upwork messages / Slack / Whatsapp)
+  - Letting us review the outline helps us course correct early-on
+- Write the code examples. (While you do this, take notes about anything tricky - this is great material for the post!)
+- Then write the post
+
 ## Instructions
 
 How to attempt this challenge:
